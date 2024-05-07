@@ -31,6 +31,8 @@ Configure .env file with the following parameters:
 ```
 OPENAI_API_KEY=<KEY>
 AZURE_OPENAI_ENDPOINT=<ENDPOINT>
+LANGSMITH_ENDPOINT=<LANGSMITH_ENDPOINT>
+LANGSMITH_API_KEY=<LANGSMITH_API_KEY>
 ```
 
 ### The Approaches
